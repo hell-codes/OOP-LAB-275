@@ -19,7 +19,12 @@ public class Operations {
         System.out.println("Decrement(a--): " +(a--)); //use value then minus 1
         System.out.println("Increment(++a): " +(++a)); //add 1 then use value
         System.out.println("Increment(--a): " +(--a)); //minus 1 then use value
-        
+
+        System.out.println("Increment(b++): " +(b++)); //use value then add 1
+        System.out.println("Decrement(b--): " +(b--)); //use value then minus 1
+        System.out.println("Increment(++b): " +(++b)); //add 1 then use value
+        System.out.println("Increment(--b): " +(--b)); //minus 1 then use value
+
 
         input.close();
     }
