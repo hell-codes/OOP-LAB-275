@@ -14,6 +14,12 @@ public class Operations {
         System.out.println("Mul: " +(a*b));
         System.out.println("Div: " +(a/b));
         System.out.println("Mod: " +(a%b));
+       
+        System.out.println("Increment(a++): " +(a++)); //use value then add 1
+        System.out.println("Decrement(a--): " +(a--)); //use value then minus 1
+        System.out.println("Increment(++a): " +(++a)); //add 1 then use value
+        System.out.println("Increment(--a): " +(--a)); //minus 1 then use value
+        
 
         input.close();
     }
