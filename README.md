@@ -90,12 +90,16 @@ class Calculator {
 
 // ✅ Overriding — Runtime Polymorphism
 class Animal {
-    void speak() { System.out.println("Some sound..."); }
+    void speak() {
+System.out.println("Some sound...");
+  }
 }
 
 class Dog extends Animal {
     @Override
-    void speak() { System.out.println("Woof! 🐶"); }
+    void speak() {
+System.out.println("Woof! 🐶");
+  }
 }
 ```
 
@@ -106,7 +110,9 @@ class Dog extends Animal {
 ```java
 class Vehicle {
     String brand;
-    void start() { System.out.println(brand + " is starting..."); }
+    void start() {
+ System.out.println(brand + " is starting...");
+    }
 }
 
 class Car extends Vehicle {
@@ -132,10 +138,14 @@ abstract class Shape {
 
 class Circle extends Shape {
     double radius;
-    Circle(double r) { this.radius = r; }
+    Circle(double r) {
+    this.radius = r;
+  }
 
     @Override
-    double area() { return Math.PI * radius * radius; }
+    double area() {
+    return Math.PI * radius * radius;
+  }
 }
 ```
 
@@ -149,7 +159,7 @@ The `UML-Diagram/` folder contains hand-crafted diagrams for:
 - **Sequence Diagram** — Depicts how objects interact over time with message flow
 - **Use Case Diagram** — Captures actors and their interactions with the system
 
-> 📌 Diagrams are created using **PlantUML** syntax for clarity and version control compatibility.
+> 📌 Diagrams are created using **StarUML & Draw.io** for clarity and version control compatibility.
 
 ---
 
