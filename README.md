@@ -29,6 +29,11 @@ OOP-LAB-275/
 ├── 📂 Inheritance/              # Single, multilevel & hierarchical inheritance
 │
 ├── 📂 Abstraction/              # Abstract classes & interfaces
+│   ├── 📂 abstract-class/       # Abstract classes & methods
+│   ├── 📂 access-modifiers/     # public, private, protected, default
+│   ├── 📂 implements-multiple/  # Implementing multiple interfaces
+│   ├── 📂 interface/            # Interface declaration & usage
+│   └── 📂 non-access-modifiers/ # static, final, abstract, synchronized
 │
 ├── 📂 Polymorphism/
 │   ├── 📂 Overloading/          # Compile-time polymorphism
@@ -83,9 +88,15 @@ OOP-LAB-275/
 ```java
 // ✅ Overloading — Compile-time Polymorphism
 class Calculator {
-    int add(int a, int b)           { return a + b; }
-    double add(double a, double b)  { return a + b; }
-    int add(int a, int b, int c)    { return a + b + c; }
+    int add(int a, int b) {
+          return a + b;
+   }
+    double add(double a, double b) {
+          return a + b;
+   }
+    int add(int a, int b, int c) {
+          return a + b + c;
+   }
 }
 
 // ✅ Overriding — Runtime Polymorphism
