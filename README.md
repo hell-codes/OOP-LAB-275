@@ -26,6 +26,8 @@ OOP-LAB-275/
 │
 ├── 📂 Constructor/              # Constructor types & overloading
 │
+├── 📂 Encapsulation/            # Data hiding using private variables and getters/setters
+│
 ├── 📂 Inheritance/              # Single, multilevel & hierarchical inheritance
 │
 ├── 📂 Abstraction/              # Abstract classes & interfaces
