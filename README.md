@@ -1,21 +1,22 @@
 <div align="center">
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=OOP-LAB-275&fontSize=60&fontColor=58A6FF&fontAlignY=38&desc=Object%20Oriented%20Programming%20%E2%80%94%20Lab%20Repository&descAlignY=58&descSize=18&descColor=94A3B8" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=OOP-LAB-275;Object+Oriented+Programming;Amrita+Vishwa+Vidyapeetham" alt="Typing SVG" />
+</div>
 
-<br/>
-
-### 🎓 Object-Oriented Programming — Lab Repository
-**Amrita Vishwa Vidyapeetham · Chennai Campus · BTech Computer Science**
+<div align="center">
 
 <br/>
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![OOP](https://img.shields.io/badge/OOP-Concepts-4A90D9?style=for-the-badge&logo=buffer&logoColor=white)]()
-[![UML](https://img.shields.io/badge/UML-Diagrams-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=white)]()
-[![Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge&logo=statuspage&logoColor=white)]()
-[![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)](./LICENSE)
+**Amrita Vishwa Vidyapeetham &nbsp;·&nbsp; Chennai Campus &nbsp;·&nbsp; BTech Computer Science**
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/Paradigm-OOP-4A90D9?style=for-the-badge&logo=buffer&logoColor=white)
+![UML](https://img.shields.io/badge/UML-Diagrams-8B5CF6?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-F59E0B?style=for-the-badge)
 
 <br/>
 
@@ -29,7 +30,9 @@
 
 ---
 
-## 📁 Repository Structure
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## &nbsp;📁 &nbsp;Repository Structure
 
 ```
 📦 OOP-LAB-275
@@ -67,30 +70,30 @@
 └── 📄 README.md
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🧠 Concepts Covered
+## &nbsp;🧠 &nbsp;Concepts Covered
 
 <div align="center">
 
-| # | Concept | What It Covers | Status |
-|---|---------|----------------|--------|
-| 01 | 🏗️ **Constructors** | Default · Parameterized · Copy constructors | ✅ |
-| 02 | 🔒 **Encapsulation** | Private fields, getters & setters, data hiding | ✅ |
-| 03 | 🧬 **Inheritance** | IS-A relationship, code reuse across classes | ✅ |
-| 04 | 🎭 **Abstraction** | Abstract classes · Interfaces · Access & Non-Access Modifiers | ✅ |
-| 05 | 🔁 **Overloading** | Same method name, different parameters (compile-time) | ✅ |
-| 06 | 🔄 **Overriding** | Redefining parent method in child class (runtime) | ✅ |
-| 07 | 📦 **Packages** | Organising classes, import statements, access levels | ✅ |
-| 08 | 📊 **UML Diagrams** | Class Diagram & Use Case Diagram | ✅ |
-| 09 | 🧪 **Case Studies** | Applied OOP for real-world system design | ✅ |
-| 10 | 💪 **Practice** | Additional exercises and problem-solving | ✅ |
+| &nbsp;# | Concept | What It Covers | Status |
+|:---:|---------|----------------|:------:|
+| `01` | 🏗️ &nbsp;**Constructors** | Default · Parameterized · Copy constructors | ✅ |
+| `02` | 🔒 &nbsp;**Encapsulation** | Private fields, getters & setters, data hiding | ✅ |
+| `03` | 🧬 &nbsp;**Inheritance** | IS-A relationship, code reuse across classes | ✅ |
+| `04` | 🎭 &nbsp;**Abstraction** | Abstract classes · Interfaces · Access & Non-Access Modifiers | ✅ |
+| `05` | 🔁 &nbsp;**Overloading** | Same method name, different parameters (compile-time) | ✅ |
+| `06` | 🔄 &nbsp;**Overriding** | Redefining parent method in child class (runtime) | ✅ |
+| `07` | 📦 &nbsp;**Packages** | Organising classes, import statements, access levels | ✅ |
+| `08` | 📊 &nbsp;**UML Diagrams** | Class Diagram & Use Case Diagram | ✅ |
+| `09` | 🧪 &nbsp;**Case Studies** | Applied OOP for real-world system design | ✅ |
+| `10` | 💪 &nbsp;**Practice** | Additional exercises and problem-solving | ✅ |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🔑 The 4 Pillars of OOP
+## &nbsp;🔑 &nbsp;The 4 Pillars of OOP
 
 <div align="center">
 
@@ -112,12 +115,16 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📂 Section Breakdown
+## &nbsp;📂 &nbsp;Section Breakdown
 
-### 🎭 Abstraction
-> Separating *what* an object does from *how* it does it.
+<br/>
+
+<details>
+<summary><b>🎭 &nbsp;Abstraction</b> &nbsp;— &nbsp;Separating <i>what</i> an object does from <i>how</i> it does it</summary>
+
+<br/>
 
 | Sub-folder | Focus Area |
 |------------|------------|
@@ -127,53 +134,71 @@
 | `interface` | Pure abstraction — declaring contracts without implementation |
 | `non-access-modifiers` | Behaviour modifiers: `static` · `final` · `abstract` · `synchronized` |
 
----
+</details>
 
-### 🧬 Inheritance
-> Acquiring properties and behaviours from a parent class.
+<br/>
+
+<details>
+<summary><b>🧬 &nbsp;Inheritance</b> &nbsp;— &nbsp;Acquiring properties and behaviours from a parent class</summary>
+
+<br/>
 
 - **Single Inheritance** — One parent, one child
 - **Multilevel Inheritance** — Chain of parent → child → grandchild
 - **Hierarchical Inheritance** — One parent, multiple children
 - **Method Reuse** — Avoiding code duplication using `extends`
 
----
+</details>
 
-### 🔄 Polymorphism
-> One name, many behaviours.
+<br/>
+
+<details>
+<summary><b>🔄 &nbsp;Polymorphism</b> &nbsp;— &nbsp;One name, many behaviours</summary>
+
+<br/>
 
 | Type | Folder | Resolved At |
 |------|--------|-------------|
 | **Overloading** | `Polymorphism/Overloading` | Compile-time |
 | **Overriding** | `Polymorphism/Overriding` | Runtime |
 
----
+</details>
 
-### 📦 Packages
-> Organising related classes into namespaces for modularity and reusability.
+<br/>
+
+<details>
+<summary><b>📦 &nbsp;Packages</b> &nbsp;— &nbsp;Organising related classes into namespaces</summary>
+
+<br/>
 
 - Custom package creation and structure
 - `import` statements and package-level access
 - Access control across packages
 
----
+</details>
 
-### 📊 UML Diagrams
+<br/>
 
-> Visualising system design before writing code.
+<details>
+<summary><b>📊 &nbsp;UML Diagrams</b> &nbsp;— &nbsp;Visualising system design before writing code</summary>
+
+<br/>
 
 | Diagram | Purpose |
 |---------|---------|
 | **Class Diagram** | Depicts classes, attributes, methods, and relationships (association, aggregation, composition, inheritance) |
 | **Use Case Diagram** | Captures system actors and their interactions with use cases |
 
-> 📌 Diagrams are created using **StarUML** and **Draw.io**
+> 📌 Diagrams created using **StarUML** and **Draw.io**
 
----
+</details>
 
-### 🧪 Case Studies
+<br/>
 
-> Real-world systems modelled using OOP principles.
+<details>
+<summary><b>🧪 &nbsp;Case Studies</b> &nbsp;— &nbsp;Real-world systems modelled using OOP principles</summary>
+
+<br/>
 
 | System | Key OOP Concepts Applied |
 |--------|--------------------------|
@@ -183,9 +208,13 @@
 | 🚆 **Railway Reservation** | Abstraction, Association, Encapsulation |
 | 📱 **Social Media App** | Inheritance, Composition, Polymorphism |
 
----
+</details>
 
-## 🚀 Getting Started
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## &nbsp;🚀 &nbsp;Getting Started
 
 ```bash
 # 1. Clone the repository
@@ -201,45 +230,45 @@ javac Polymorphism/Overriding/Main.java
 java Main
 ```
 
-> **Prerequisites:** Java JDK 8+ · VS Code / IntelliJ IDEA / Eclipse
+> **Prerequisites:** &nbsp;Java JDK 8+ &nbsp;·&nbsp; VS Code / IntelliJ IDEA / Eclipse
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👤 Author
+## &nbsp;👤 &nbsp;Author
 
 <div align="center">
 
 <br/>
 
-**Prabin Yadav**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=2&width=60%"/>
 
-*BTech Computer Science · Amrita Vishwa Vidyapeetham, Chennai*
+<br/><br/>
+
+### Prabin Yadav
+
+*BTech Computer Science &nbsp;·&nbsp; Amrita Vishwa Vidyapeetham, Chennai*
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-prabinyadav.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://prabinyadav.dev)
-&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-prabinyadav.dev-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://prabinyadav.dev)
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-hell--codes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hell-codes)
 
 <br/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📄 License
+## &nbsp;📄 &nbsp;License
 
 This repository is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
 
----
+<br/>
 
 <div align="center">
 
-<br/>
-
-```
-"First, solve the problem. Then, write the code." — John Johnson
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&text=%22First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.%22&fontSize=14&fontColor=94A3B8&fontAlignY=55" />
 
 <br/>
 
@@ -247,7 +276,7 @@ This repository is licensed under the **MIT License** — see the [LICENSE](./LI
 
 <br/>
 
-⭐ **Found this helpful? Drop a star — it keeps the motivation alive!** ⭐
+⭐ &nbsp;**Found this helpful? Drop a star — it keeps the motivation alive!**&nbsp; ⭐
 
 <br/>
 
